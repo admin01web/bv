@@ -1,0 +1,14 @@
+{
+    "background_color": "white",
+    "description": "Most Sexy Girls Looking for Love. Fuck Them Now! Popular Personals Site. Lively Singles. Chat, Cam, & Fuck",
+    "display": "fullscreen",
+    "name": "WhatsApp Dating",
+    "short_name": "WhatsApp Dating",
+    "theme_color": "#E6E6FA",
+    "start_url": "/progress/mainstream/1/index.html/?is_pwa=1",
+    "icons": [{
+        "src": "/progress/mainstream/1/wadat/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+}
